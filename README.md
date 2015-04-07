@@ -9,7 +9,16 @@ Work in progress
 
 * [x] Buttons
 * [ ] PostBox
-* [ ] baz
+* [ ] Side Menu
+* [ ] Input
+* [ ] Textarea
+* [ ] Select
+* [ ] Radio
+* [ ] List table
+* [ ] Tabs
+* [ ] Icon Lists
+* [ ] Admin Bar
+
 
 ### Usage
 
