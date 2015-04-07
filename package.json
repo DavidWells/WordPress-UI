@@ -1,0 +1,41 @@
+{
+  "name": "wordpress-ui",
+  "version": "0.0.1",
+  "description": "WordPress UI in React",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidWells/WordPress-UI"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "hot",
+    "hot",
+    "reload",
+    "hmr",
+    "wordpress",
+    "edit",
+    "webpack"
+  ],
+  "author": "David Wells <david@inboundnow.com> (http://github.com/davidwells)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidWells/WordPress-UI/issues"
+  },
+  "homepage": "https://github.com/DavidWells/WordPress-UI",
+  "devDependencies": {
+    "babel-core": "^4.7.4",
+    "babel-loader": "^4.1.0",
+    "react-hot-loader": "^1.2.2",
+    "webpack": "^1.7.2",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "react": "^0.13.0",
+    "classnames": "^1.2.0"
+  }
+}
