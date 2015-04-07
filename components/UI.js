@@ -1,6 +1,6 @@
 // ES6
 import React from 'react';
-import Button from './button';
+import Button from './Button';
 import Postbox from './Postbox';
 
 export default class App extends React.Component {

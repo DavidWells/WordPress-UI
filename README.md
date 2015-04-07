@@ -3,7 +3,7 @@ WordPress-UI
 
 WordPress UI built in React.
 
-Work in progress
+Work in progress. Pull requests welcome
 
 # Todo
 
