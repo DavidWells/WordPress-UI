@@ -2,3 +2,5 @@ node_modules
 npm-debug.log
 public
 .DS_Store
+components/FormGroup.js
+components/Input.js
